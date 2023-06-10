@@ -1,0 +1,7 @@
+C:\OOP\UAMS 3 Tier Model\UAMS 3 Tier Model\bin\Debug\UAMS 3 Tier Model.exe.config
+C:\OOP\UAMS 3 Tier Model\UAMS 3 Tier Model\bin\Debug\UAMS 3 Tier Model.exe
+C:\OOP\UAMS 3 Tier Model\UAMS 3 Tier Model\bin\Debug\UAMS 3 Tier Model.pdb
+C:\OOP\UAMS 3 Tier Model\UAMS 3 Tier Model\obj\Debug\UAMS 3 Tier Model.csproj.AssemblyReference.cache
+C:\OOP\UAMS 3 Tier Model\UAMS 3 Tier Model\obj\Debug\UAMS 3 Tier Model.csproj.CoreCompileInputs.cache
+C:\OOP\UAMS 3 Tier Model\UAMS 3 Tier Model\obj\Debug\UAMS 3 Tier Model.exe
+C:\OOP\UAMS 3 Tier Model\UAMS 3 Tier Model\obj\Debug\UAMS 3 Tier Model.pdb
